@@ -1,0 +1,13 @@
+Robots.txt
+
+User-agent: Mediapartners-Google
+
+Allow:
+
+User-agent: *
+
+Allow: /search
+
+Allow: /
+
+Sitemap: http://permatahijaumansion.web.id/feeds/posts/default?orderby=UPDATED

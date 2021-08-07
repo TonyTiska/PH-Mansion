@@ -46,14 +46,23 @@
     "uniqCompNum": 18,
     "versionPublish": "5.3.0",
     "imageResize": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsSwitcher": true,
+    "robotsText": "Robots.txt\n\nUser-agent: Mediapartners-Google\n\nAllow:\n\nUser-agent: *\n\nAllow: /search\n\nAllow: /\n\nSitemap: http://permatahijaumansion.web.id/feeds/posts/default?orderby=UPDATED",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://permatahijaumansion.web.id",
+    "sitemapSwitcherAuto": "on",
+    "favicon": false,
+    "mbrsiteDomain": "vubnbirxwb",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Permata Hijau Mansion",
+        "meta_descr": "Permata Hijau Mansion merupakan cluster terbaru di area permata hijau jakara dengan lokasi yang sangat strategis dan dengan harga yang sangat terjangkau. didirikan di atas lahas seluas 2210m2 Untuk Tahap 1 Rumah Permata Hijau ini di bangun sebanyak 33 unit dengan konsep Cluster dan akan di pasarkaan di tahap 1 ini sebanyak 32 unit dengan harga mulai dari 2,97M an anda sudah bisa memiliki rumah 4 lantai dengan kolam renang skydeck di lokasi yang super premium.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
